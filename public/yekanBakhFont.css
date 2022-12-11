@@ -1,0 +1,36 @@
+
+
+@font-face {
+    font-family: "Yekan Bakh";
+    font-style: normal;
+    font-weight: 500;
+    src: url('./fontNum/eot/Yekan Bakh FaNum 05 Medium.eot');
+    src: url('./fontNum/ttf/Yekan Bakh FaNum 05 Medium.ttf') format('ttf'),  /* IE6-8 */
+    url('./fontNum/woff/Yekan Bakh FaNum 05 Medium.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+    font-family: "Yekan Bakh";
+    font-style: normal;
+    font-weight: 500;
+    src: url('./fontNum/akshar/akshar-v5-latin-regular.eot');
+    src: url('./fontNum/akshar/Akshar-Regular.ttf') format('ttf'),  /* IE6-8 */
+    url('./fontNum/akshar/akshar-v5-latin-regular.woff') format('woff'),
+    url('./fontNum/akshar/akshar-v5-latin-regular.woff2') format('woff2');
+    unicode-range: U+0030-0039;
+}
+@font-face {
+    font-family: "Yekan Bakh";
+    font-style: normal;
+    font-weight: bold;
+    src: url('./fontNum/eot/Yekan Bakh FaNum 06 Bold.eot');
+    src: url('./fontNum/ttf/Yekan Bakh FaNum 06 Bold.ttf') format('ttf'),  /* IE6-8 */
+    url('./fontNum/woff/Yekan Bakh FaNum 06 Bold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+    font-family: "Yekan Bakh";
+    font-style: normal;
+    font-weight: 900;
+    src: url('./fontNum/eot/Yekan Bakh FaNum 08 Fat.eot');
+    src: url('./fontNum/ttf/Yekan Bakh FaNum 08 Fat.ttf') format('ttf'),  /* IE6-8 */
+    url('./fontNum/woff/Yekan Bakh FaNum 08 Fat.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
